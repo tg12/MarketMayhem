@@ -67,7 +67,8 @@ To start interacting with the **MarketMayhem** API, choose an endpoint and send 
 Here's a quick example using cURL to place an order:
 
 
-```curl -X POST http://localhost:5000/place_order \
+```
+curl -X POST http://localhost:5000/place_order \
      -H "Content-Type: application/json" \
      -d '{"side": "buy", "quantity": 10, "price": 100.5}'
 ```
