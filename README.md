@@ -98,6 +98,18 @@ users understand how to get started with the API, the tools they can use, and th
 
 **MarketMayhem** isn't just a simulation; it's a challenge. Unlike traditional platforms, we don't simulate trading based on any specific commodity, index, or cryptocurrency. Our market operates 24/7—assuming the server stays up, of course! This continuous, round-the-clock trading environment is your playground to test strategies, refine your trading logic, and truly see if you can outsmart the market.
 
+Our HFT Simulator is designed to challenge the **Efficient Markets Hypothesis (EMH)**, which states that all known information is already reflected in stock prices, making it impossible to consistently outperform the market. 
+
+However, our simulator introduces you to the exciting world of high-frequency trading (HFT). Here's what you can do:
+
+- **Explore Brief Inefficiencies**: Dive into scenarios where the market isn't perfectly efficient and discover opportunities that last only seconds.
+
+- **Test Trading Strategies**: Use our simulator to practice fast-paced trading strategies in a completely risk-free environment.
+
+- **Learn and Understand**: Gain valuable insights into how high-frequency traders might exploit small price differences that others overlook.
+
+This simulator is your gateway to understanding the nuances of the trading world, providing a hands-on experience with the dynamics of high-frequency trading. Whether you're curious about how markets work or looking to develop your trading skills, our platform offers an educational and practical approach to the complexities of the financial markets.
+
 ### The Leaderboard
 
 Are you ready to take your trading skills to the next level? We're excited to introduce the **MarketMayhem Leaderboard**, a place where traders can see how they stack up against others in the community. Whether you're a seasoned trader or just starting out, the leaderboard offers a fun and competitive way to see where you stand.
