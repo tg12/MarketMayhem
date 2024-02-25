@@ -46,7 +46,7 @@
 
 ## How to Use the API
 
-The **MarketMayhem** API is RESTful, meaning you can interact with it using any REST-based client or automation tool such as Postman, cURL, or programming languages with HTTP client capabilities like Python's `requests` library, JavaScript (using fetch API or Axios), and many others.
+The **MarketMayhem** API is RESTful, meaning you can interact with it using any REST-based client or automation tool such as Postman, cURL, or programming languages with HTTP client capabilities like Python's `requests` library, and many others.
 
 ### No Rate Limiting or API Keys (For Now)
 
