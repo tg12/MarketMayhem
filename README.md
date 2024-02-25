@@ -91,7 +91,7 @@ http://mktmayhem.jamessawyer.co.uk:5000
 
 http://tradesim.jamessawyer.co.uk:5000
 ```
-
+(Both Servers share the same orderbook)
 
 This expanded guide should help new 
 users understand how to get started with the API, the tools they can use, and the nature of the simulated environment, along with encouraging contributions and feedback.
