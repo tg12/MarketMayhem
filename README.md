@@ -70,3 +70,14 @@ Here's a quick example using cURL to place an order:
 curl -X POST http://localhost:5000/place_order \
      -H "Content-Type: application/json" \
      -d '{"side": "buy", "quantity": 10, "price": 100.5}'
+
+And here's how you might check an order using Python's requests:
+
+import requests
+
+response = requests.get("http://localhost:5000/check_order?order_id=1234")
+print(response.json())
+
+
+This expanded guide should help new users understand how to get started with the API, the tools they can use, and the nature of the simulated environment, along with encouraging contributions and feedback.
+
