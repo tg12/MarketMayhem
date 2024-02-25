@@ -82,8 +82,17 @@ response = requests.get("http://localhost:5000/check_order?order_id=1234")
 print(response.json())
 ```
 
+# Servers (24/7)
 
-This expanded guide should help new users understand how to get started with the API, the tools they can use, and the nature of the simulated environment, along with encouraging contributions and feedback.
+```sh
+http://mktmayhem.jamessawyer.co.uk:5000
+
+http://tradesim.jamessawyer.co.uk:5000
+```
+
+
+This expanded guide should help new 
+users understand how to get started with the API, the tools they can use, and the nature of the simulated environment, along with encouraging contributions and feedback.
 
 # Challenge: Can You Beat the Market?
 
