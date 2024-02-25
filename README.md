@@ -81,3 +81,22 @@ print(response.json())
 
 This expanded guide should help new users understand how to get started with the API, the tools they can use, and the nature of the simulated environment, along with encouraging contributions and feedback.
 
+# Challenge: Can You Beat the Market?
+
+**MarketMayhem** isn't just a simulation; it's a challenge. Unlike traditional platforms, we don't simulate trading based on any specific commodity, index, or cryptocurrency. Our market operates 24/7—assuming the server stays up, of course! This continuous, round-the-clock trading environment is your playground to test strategies, refine your trading logic, and truly see if you can outsmart the market.
+
+### The Leaderboard
+
+Are you ready to take your trading skills to the next level? We're excited to introduce the **MarketMayhem Leaderboard**, a place where traders can see how they stack up against others in the community. Whether you're a seasoned trader or just starting out, the leaderboard offers a fun and competitive way to see where you stand.
+
+- **Rise to the Top**: Execute smart trades and climb the ranks of the **MarketMayhem Leaderboard**.
+- **Learn and Adapt**: Analyze the strategies of top traders. Adapt and refine your approach to trading in our simulated market.
+
+### The Ultimate Challenge
+
+Can you beat the market? With MarketMayhem, you have the unique opportunity to try. Remember, success here doesn't just come from making profitable trades. It's about consistency, strategy, and the ability to adapt to market changes—skills that are invaluable in any trading environment.
+
+Start trading now, keep the server buzzing, and let's see if you can secure your place at the top of the **MarketMayhem Leaderboard**. The challenge is on!
+
+
+
