@@ -16,6 +16,8 @@
     "quantity": 10,
     "price": 100.5
   }
+
+- **Order Notes:** Your order will be rejected if it lacks buy/sell direction, price, and quantity. While the simulation assumes unlimited financial resources for trading, profit and loss still apply. Ensure to verify your order against the current price; orders may also be rejected if no market participants match your specified price. (Error Code: 201)
   
 ## API Endpoints
 
