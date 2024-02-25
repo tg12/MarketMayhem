@@ -69,7 +69,7 @@ Here's a quick example using cURL to place an order:
 ```bash
 curl -X POST http://localhost:5000/place_order \
      -H "Content-Type: application/json" \
-     -d '{"side": "buy", "quantity": 10, "price": 100.5}'```
+     -d '{"side": "buy", "quantity": 10, "price": 100.5}
 
 And here's how you might check an order using Python's requests:
 
